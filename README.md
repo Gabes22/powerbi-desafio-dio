@@ -24,6 +24,14 @@ O relatório foi concebido em páginas temáticas com uma identidade visual cons
 - **Segmentação de Mercado (*Treemap*):** Distribuição proporcional do lucro por segmentos de clientes (*Government*, *Small Business*, *Channel Partners*, etc.).
 - **Análise Trimestral (*Waterfall / Cascata*):** Acompanhamento da variação e impacto financeiro trimestre a trimestre.
 
+## 📸 Pré-visualização do Relatório
+
+### Página 1: Visão Geral Executiva
+![Visão Geral Executiva](Imagens Projeto Power BI/Pag1.png)
+
+### Página 2: Lucro Detalhado
+![Relatório de Lucro Detalhado](Imagens Projeto Power BI/Pag2.png)
+
 ---
 
 ## ⚙️ Tecnologias e Ferramentas Utilizadas
