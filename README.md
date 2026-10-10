@@ -27,10 +27,10 @@ O relatório foi concebido em páginas temáticas com uma identidade visual cons
 ## 📸 Pré-visualização do Relatório
 
 ### Página 1: Visão Geral Executiva
-![Visão Geral Executiva](ImagensPag1.png)
+![Visão Geral Executiva](imagensPag1.png)
 
 ### Página 2: Lucro Detalhado
-![Relatório de Lucro Detalhado](ImagensPag2.png)
+![Relatório de Lucro Detalhado](imagensPag2.png)
 
 ---
 
