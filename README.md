@@ -27,10 +27,10 @@ O relatório foi concebido em páginas temáticas com uma identidade visual cons
 ## 📸 Pré-visualização do Relatório
 
 ### Página 1: Visão Geral Executiva
-![Visão Geral Executiva](Imagens Projeto Power BI/Pag1.png)
+![Visão Geral Executiva](ImagensPag1.png)
 
 ### Página 2: Lucro Detalhado
-![Relatório de Lucro Detalhado](Imagens Projeto Power BI/Pag2.png)
+![Relatório de Lucro Detalhado](ImagensPag2.png)
 
 ---
 
